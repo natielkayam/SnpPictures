@@ -1,0 +1,6 @@
+@Snp.Services.PictureAlbumApi_HostAddress = http://localhost:5094
+
+GET {{Snp.Services.PictureAlbumApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "Snp.Services.PictureAlbumApi.Controllers.PicturesController",
+    "Method": "Add",
+    "RelativePath": "api/pictures/add-picture",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pictureDto",
+        "Type": "Snp.Services.PictureAlbumApi.Models.Dto.PictureDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Snp.Services.PictureAlbumApi.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Snp.Services.PictureAlbumApi.Controllers.PicturesController",
+    "Method": "Get",
+    "RelativePath": "api/pictures/get-pictures",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Snp.Services.PictureAlbumApi.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

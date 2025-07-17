@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Services\\PictureService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snp.Services.PictureApi\\Services\\PictureService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Exceptions\\PictureUploadFileException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snp.Services.PictureApi\\Exceptions\\PictureUploadFileException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Models\\Dto\\PictureDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snp.Services.PictureApi\\Models\\Dto\\PictureDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snp.Services.PictureApi\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snp.Services.PictureApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Controllers\\PicturesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snp.Services.PictureApi\\Controllers\\PicturesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PictureUploadFileException.cs",
+              "DocumentMoniker": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Exceptions\\PictureUploadFileException.cs",
+              "RelativeDocumentMoniker": "Snp.Services.PictureApi\\Exceptions\\PictureUploadFileException.cs",
+              "ToolTip": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Exceptions\\PictureUploadFileException.cs",
+              "RelativeToolTip": "Snp.Services.PictureApi\\Exceptions\\PictureUploadFileException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:52:35.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PictureDto.cs",
+              "DocumentMoniker": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Models\\Dto\\PictureDto.cs",
+              "RelativeDocumentMoniker": "Snp.Services.PictureApi\\Models\\Dto\\PictureDto.cs",
+              "ToolTip": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Models\\Dto\\PictureDto.cs",
+              "RelativeToolTip": "Snp.Services.PictureApi\\Models\\Dto\\PictureDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:44:52.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Snp.Services.PictureApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Snp.Services.PictureApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:43:22.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Program.cs",
+              "RelativeDocumentMoniker": "Snp.Services.PictureApi\\Program.cs",
+              "ToolTip": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Program.cs",
+              "RelativeToolTip": "Snp.Services.PictureApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:23:26.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PictureService.cs",
+              "DocumentMoniker": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Services\\PictureService.cs",
+              "RelativeDocumentMoniker": "Snp.Services.PictureApi\\Services\\PictureService.cs",
+              "ToolTip": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Services\\PictureService.cs",
+              "RelativeToolTip": "Snp.Services.PictureApi\\Services\\PictureService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:10:12.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PicturesController.cs",
+              "DocumentMoniker": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Controllers\\PicturesController.cs",
+              "RelativeDocumentMoniker": "Snp.Services.PictureApi\\Controllers\\PicturesController.cs",
+              "ToolTip": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureApi\\Controllers\\PicturesController.cs",
+              "RelativeToolTip": "Snp.Services.PictureApi\\Controllers\\PicturesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:05:36.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

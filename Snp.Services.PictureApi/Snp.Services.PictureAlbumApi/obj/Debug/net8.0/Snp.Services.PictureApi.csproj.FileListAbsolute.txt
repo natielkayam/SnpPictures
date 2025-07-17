@@ -1,0 +1,7 @@
+C:\Users\LYNN\source\repos\Snp\Snp.Services.PictureApi\Snp.Services.PictureApi\obj\Debug\net8.0\Snp.Services.PictureApi.csproj.AssemblyReference.cache
+C:\Users\LYNN\source\repos\Snp\Snp.Services.PictureApi\Snp.Services.PictureApi\obj\Debug\net8.0\Snp.Services.PictureApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LYNN\source\repos\Snp\Snp.Services.PictureApi\Snp.Services.PictureApi\obj\Debug\net8.0\Snp.Services.PictureApi.AssemblyInfoInputs.cache
+C:\Users\LYNN\source\repos\Snp\Snp.Services.PictureApi\Snp.Services.PictureApi\obj\Debug\net8.0\Snp.Services.PictureApi.AssemblyInfo.cs
+C:\Users\LYNN\source\repos\Snp\Snp.Services.PictureApi\Snp.Services.PictureApi\obj\Debug\net8.0\Snp.Services.PictureApi.csproj.CoreCompileInputs.cache
+C:\Users\LYNN\source\repos\Snp\Snp.Services.PictureApi\Snp.Services.PictureApi\obj\Debug\net8.0\Snp.Services.PictureApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LYNN\source\repos\Snp\Snp.Services.PictureApi\Snp.Services.PictureApi\obj\Debug\net8.0\Snp.Services.PictureApi.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Snp.Services.PictureAlbumApi.props" />
+</Project>

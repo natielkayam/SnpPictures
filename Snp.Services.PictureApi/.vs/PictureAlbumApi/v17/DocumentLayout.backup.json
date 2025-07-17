@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB48AFF-A06E-4969-B4D4-A0BE499D6ACA}|Snp.Services.PictureAlbumApi\\Snp.Services.PictureAlbumApi.csproj|c:\\users\\lynn\\source\\repos\\snp\\snp.services.pictureapi\\snp.services.picturealbumapi\\controllers\\picturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB48AFF-A06E-4969-B4D4-A0BE499D6ACA}|Snp.Services.PictureAlbumApi\\Snp.Services.PictureAlbumApi.csproj|solutionrelative:snp.services.picturealbumapi\\controllers\\picturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB48AFF-A06E-4969-B4D4-A0BE499D6ACA}|Snp.Services.PictureAlbumApi\\Snp.Services.PictureAlbumApi.csproj|c:\\users\\lynn\\source\\repos\\snp\\snp.services.pictureapi\\snp.services.picturealbumapi\\models\\dto\\picturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB48AFF-A06E-4969-B4D4-A0BE499D6ACA}|Snp.Services.PictureAlbumApi\\Snp.Services.PictureAlbumApi.csproj|solutionrelative:snp.services.picturealbumapi\\models\\dto\\picturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB48AFF-A06E-4969-B4D4-A0BE499D6ACA}|Snp.Services.PictureAlbumApi\\Snp.Services.PictureAlbumApi.csproj|c:\\users\\lynn\\source\\repos\\snp\\snp.services.pictureapi\\snp.services.picturealbumapi\\services\\pictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB48AFF-A06E-4969-B4D4-A0BE499D6ACA}|Snp.Services.PictureAlbumApi\\Snp.Services.PictureAlbumApi.csproj|solutionrelative:snp.services.picturealbumapi\\services\\pictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB48AFF-A06E-4969-B4D4-A0BE499D6ACA}|Snp.Services.PictureAlbumApi\\Snp.Services.PictureAlbumApi.csproj|c:\\users\\lynn\\source\\repos\\snp\\snp.services.pictureapi\\snp.services.picturealbumapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB48AFF-A06E-4969-B4D4-A0BE499D6ACA}|Snp.Services.PictureAlbumApi\\Snp.Services.PictureAlbumApi.csproj|solutionrelative:snp.services.picturealbumapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB48AFF-A06E-4969-B4D4-A0BE499D6ACA}|Snp.Services.PictureAlbumApi\\Snp.Services.PictureAlbumApi.csproj|c:\\users\\lynn\\source\\repos\\snp\\snp.services.pictureapi\\snp.services.picturealbumapi\\mapping\\profiles\\pictureprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB48AFF-A06E-4969-B4D4-A0BE499D6ACA}|Snp.Services.PictureAlbumApi\\Snp.Services.PictureAlbumApi.csproj|solutionrelative:snp.services.picturealbumapi\\mapping\\profiles\\pictureprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB48AFF-A06E-4969-B4D4-A0BE499D6ACA}|Snp.Services.PictureAlbumApi\\Snp.Services.PictureAlbumApi.csproj|c:\\users\\lynn\\source\\repos\\snp\\snp.services.pictureapi\\snp.services.picturealbumapi\\models\\dto\\picturelistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB48AFF-A06E-4969-B4D4-A0BE499D6ACA}|Snp.Services.PictureAlbumApi\\Snp.Services.PictureAlbumApi.csproj|solutionrelative:snp.services.picturealbumapi\\models\\dto\\picturelistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB48AFF-A06E-4969-B4D4-A0BE499D6ACA}|Snp.Services.PictureAlbumApi\\Snp.Services.PictureAlbumApi.csproj|c:\\users\\lynn\\source\\repos\\snp\\snp.services.pictureapi\\snp.services.picturealbumapi\\models\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB48AFF-A06E-4969-B4D4-A0BE499D6ACA}|Snp.Services.PictureAlbumApi\\Snp.Services.PictureAlbumApi.csproj|solutionrelative:snp.services.picturealbumapi\\models\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureAlbumApi\\Program.cs",
+              "RelativeDocumentMoniker": "Snp.Services.PictureAlbumApi\\Program.cs",
+              "ToolTip": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureAlbumApi\\Program.cs",
+              "RelativeToolTip": "Snp.Services.PictureAlbumApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:51:50.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PicturesController.cs",
+              "DocumentMoniker": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureAlbumApi\\Controllers\\PicturesController.cs",
+              "RelativeDocumentMoniker": "Snp.Services.PictureAlbumApi\\Controllers\\PicturesController.cs",
+              "ToolTip": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureAlbumApi\\Controllers\\PicturesController.cs",
+              "RelativeToolTip": "Snp.Services.PictureAlbumApi\\Controllers\\PicturesController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:51:35.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PictureProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureAlbumApi\\Mapping\\Profiles\\PictureProfile.cs",
+              "RelativeDocumentMoniker": "Snp.Services.PictureAlbumApi\\Mapping\\Profiles\\PictureProfile.cs",
+              "ToolTip": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureAlbumApi\\Mapping\\Profiles\\PictureProfile.cs",
+              "RelativeToolTip": "Snp.Services.PictureAlbumApi\\Mapping\\Profiles\\PictureProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:49:09.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PictureService.cs",
+              "DocumentMoniker": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureAlbumApi\\Services\\PictureService.cs",
+              "RelativeDocumentMoniker": "Snp.Services.PictureAlbumApi\\Services\\PictureService.cs",
+              "ToolTip": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureAlbumApi\\Services\\PictureService.cs",
+              "RelativeToolTip": "Snp.Services.PictureAlbumApi\\Services\\PictureService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:47:51.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PictureListItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureAlbumApi\\Models\\Dto\\PictureListItemDto.cs",
+              "RelativeDocumentMoniker": "Snp.Services.PictureAlbumApi\\Models\\Dto\\PictureListItemDto.cs",
+              "ToolTip": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureAlbumApi\\Models\\Dto\\PictureListItemDto.cs",
+              "RelativeToolTip": "Snp.Services.PictureAlbumApi\\Models\\Dto\\PictureListItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:47:44.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PictureDto.cs",
+              "DocumentMoniker": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureAlbumApi\\Models\\Dto\\PictureDto.cs",
+              "RelativeDocumentMoniker": "Snp.Services.PictureAlbumApi\\Models\\Dto\\PictureDto.cs",
+              "ToolTip": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureAlbumApi\\Models\\Dto\\PictureDto.cs",
+              "RelativeToolTip": "Snp.Services.PictureAlbumApi\\Models\\Dto\\PictureDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:46:24.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Picture.cs",
+              "DocumentMoniker": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureAlbumApi\\Models\\Picture.cs",
+              "RelativeDocumentMoniker": "Snp.Services.PictureAlbumApi\\Models\\Picture.cs",
+              "ToolTip": "C:\\Users\\LYNN\\source\\repos\\Snp\\Snp.Services.PictureApi\\Snp.Services.PictureAlbumApi\\Models\\Picture.cs",
+              "RelativeToolTip": "Snp.Services.PictureAlbumApi\\Models\\Picture.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:45:04.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

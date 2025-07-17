@@ -1,0 +1,2 @@
+# SnpPictures
+assignment for SnpGlobal

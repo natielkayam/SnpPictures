@@ -4,6 +4,7 @@ Assignment for **SnpGlobal**
 ## Frontend  
 1. Navigate to the `frontend` folder  
 2. Run: npm install
+3. Change in .env file the route for the server
 npm run start
 
 ## Backend (.NET API)  
